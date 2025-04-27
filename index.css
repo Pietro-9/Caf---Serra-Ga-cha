@@ -30,15 +30,21 @@ h2{
     width: 200px;
     height: 150px;
 }
+.botao{
+    background-color:black;
+    font-weight: bold;
+    color: white;
+    border: none;
+}
 .botao-acesso{
      position: absolute;
      bottom: 20px;
      left: 40%;
      width: 315px ;
      margin-top: 10px;
-     background-color:black;
-     font-weight: bold;
-     color: white;
-     border: none;
      height: 35px;
+}
+.botao-cardapio{
+    width: 200px;
+    height: 20px;
 }
